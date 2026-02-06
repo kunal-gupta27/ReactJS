@@ -1,10 +1,14 @@
-
+import Chai from "./new"
 
 function App() {
   
 
   return (
-    <h1>Hello! we learning vite with react | how manages things in vite with react</h1>
+    <>  
+    <Chai/>
+    <h1>Kunal is good at Dsa.</h1>
+    <p>my friends are enough good in dsa</p>
+    </>
   )
 }
 
